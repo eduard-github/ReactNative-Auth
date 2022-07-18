@@ -7,6 +7,6 @@ export enum AppRoutes {
   // Root
   DASHBOARD = 'Dashboard',
   PROFILE = 'Profile',
-  PROFILE_DETAILS = 'Profile Details',
+  EDIT_PROFILE = 'Edit Profile',
   ABOUT = 'About',
 }
